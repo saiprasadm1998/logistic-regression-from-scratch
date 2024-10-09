@@ -15,5 +15,8 @@ The Iris dataset is used for this project, but it is simplified to a binary clas
    - The model is evaluated using accuracy, precision, and recall.
    - Decision boundary visualization.
 
-## How to Run
-1. Clone the repository:
+## Results
+- 
+
+## Future Work
+- Extend to multi-class classification using one-vs-rest approach.
